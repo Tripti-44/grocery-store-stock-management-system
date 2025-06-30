@@ -82,11 +82,17 @@ The following items are inserted initially:
 Name	Code	Quantity	Price
 
 Biscuits	111	50	10
+
 Chips	222	50	10
+
 Bread	333	15	25
+
 Flour	444	65	80
+
 Pulses	555	45	30
+
 Rice	666	21	78
+
 ---
 
 🚧 Known Limitations
